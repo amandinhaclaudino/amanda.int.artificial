@@ -1,0 +1,1 @@
+# amanda.int.artificial
